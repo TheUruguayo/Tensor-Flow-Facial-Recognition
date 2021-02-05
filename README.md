@@ -1,4 +1,4 @@
-# Tensor-Flow-Facial-Recognition
+# TensorFlow-Facial-Recognition
 I am using Tensor Flow to create a "Simple" Facial Recognition program using jupyter.
 You can use this with your own database. I decided to use DropOut regularization due to the lack of variety in my dataset regarding my photos. This way the weights do not depend too much on the activation of previous layers
 
